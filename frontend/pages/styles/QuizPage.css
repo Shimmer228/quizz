@@ -1,0 +1,66 @@
+.container {
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+.backButton {
+  text-decoration: underline;
+  color: #2563eb; /* синій */
+  margin-bottom: 16px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+.question {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 24px;
+}
+
+.questionText {
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.questionType {
+  font-size: 0.875rem;
+  color: #4b5563;
+  margin-bottom: 8px;
+}
+
+.inputField, .textareaField {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  resize: vertical;
+}
+
+.checkboxLabel {
+  display: block;
+  margin-bottom: 4px;
+}
+
+.toggleAnswerBtn {
+  margin-top: 12px;
+  color: #3b82f6;
+  background: none;
+  border: none;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.answer {
+  margin-top: 8px;
+  font-weight: 500;
+}

@@ -1,0 +1,14 @@
+__turbopack_load_page_chunks__("/quizzes/[id]", [
+  "static/chunks/node_modules_next_dist_compiled_next-devtools_index_82a36480.js",
+  "static/chunks/node_modules_next_dist_compiled_ca41998d._.js",
+  "static/chunks/node_modules_next_dist_shared_lib_492fcef6._.js",
+  "static/chunks/node_modules_next_dist_client_becf32a6._.js",
+  "static/chunks/node_modules_next_dist_a3e9a08f._.js",
+  "static/chunks/node_modules_next_router_47d9bb1c.js",
+  "static/chunks/node_modules_react-dom_82bb97c6._.js",
+  "static/chunks/node_modules_a80c7711._.js",
+  "static/chunks/[root-of-the-server]__4b512210._.js",
+  "static/chunks/pages_styles_QuizPage_ac2361f9.css",
+  "static/chunks/pages_quizzes_[id]_tsx_5771e187._.js",
+  "static/chunks/pages_quizzes_[id]_tsx_90f70fb9._.js"
+])
